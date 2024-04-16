@@ -1,0 +1,9 @@
+#######
+title:        'Váncsa István README'
+
+path:         ''
+
+markdown:     kramdown
+highlighter:  rouge
+
+extensions:   [footnotes]
